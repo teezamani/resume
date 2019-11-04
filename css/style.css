@@ -193,6 +193,9 @@ html{
 #home{
     padding:  80px 50px 100px 50px;
   }
+  marquee h5{
+    margin-top: 50px;
+  }
   footer{display: none;}
   .card{
     font-size: 17px;
