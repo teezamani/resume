@@ -115,6 +115,9 @@ html{
     border-left: solid 10px #132639;
     font-weight: bold;
   } 
+  marquee h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
   .resume{
       font-size: 30px;
       /* font-weight: bold; */
