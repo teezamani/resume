@@ -186,6 +186,9 @@ html{
   .referees p{
     margin-bottom: 50px;
   }
+  .fa-paper-plane{
+    padding: 0px 10px 0px 0px;
+  }
 /* screen less than 678px for mobile devices */
 @media screen and (max-width:678px){
 .sidebar{display: none;}
