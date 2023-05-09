@@ -192,7 +192,8 @@ html{
 /* screen less than 678px for mobile devices */
 @media screen and (max-width:678px){
 .sidebar{display: none;}
-#home h1, h2{font-size: 20px;}
+#home h1{font-size: 20px;}
+#home h2{font-size: 15px;}
 #home{
     padding:  80px 50px 100px 50px;
   }
